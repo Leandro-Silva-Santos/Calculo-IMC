@@ -1,2 +1,4 @@
-# Calculo-IMC
- Projeto que pede altura e peso e calcula o IMC. Feito com HTML, CSS e JS
+# Índice de massa corporal - IMC
+Aplicação que pede altura e peso e retorna o cálculo do IMC. 
+
+![Alt text](img/print.png)
